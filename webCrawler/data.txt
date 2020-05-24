@@ -1,0 +1,252 @@
+豆瓣电影 Top 250 截止 2020-05-24
+#	评分	影片名称
+1	9.7	肖申克的救赎 / The Shawshank Redemption
+2	9.6	霸王别姬
+3	9.5	阿甘正传 / Forrest Gump
+4	9.4	这个杀手不太冷 / Léon
+5	9.5	美丽人生 / La vita è bella
+6	9.4	泰坦尼克号 / Titanic
+7	9.4	千与千寻 / 千と千尋の神隠し
+8	9.5	辛德勒的名单 / Schindler's List
+9	9.3	盗梦空间 / Inception
+10	9.4	忠犬八公的故事 / Hachi: A Dog's Tale
+11	9.3	海上钢琴师 / La leggenda del pianista sull'oceano
+12	9.3	楚门的世界 / The Truman Show
+13	9.2	三傻大闹宝莱坞 / 3 Idiots
+14	9.3	机器人总动员 / WALL·E
+15	9.3	放牛班的春天 / Les choristes
+16	9.3	星际穿越 / Interstellar
+17	9.2	大话西游之大圣娶亲 / 西遊記大結局之仙履奇緣
+18	9.3	熔炉 / 도가니
+19	9.2	疯狂动物城 / Zootopia
+20	9.2	无间道 / 無間道
+21	9.2	龙猫 / となりのトトロ
+22	9.3	教父 / The Godfather
+23	9.1	当幸福来敲门 / The Pursuit of Happyness
+24	9.1	怦然心动 / Flipped
+25	9.2	触不可及 / Intouchables
+26	9.2	蝙蝠侠：黑暗骑士 / The Dark Knight
+27	9.6	控方证人 / Witness for the Prosecution
+28	9.2	活着
+29	9.3	乱世佳人 / Gone with the Wind
+30	9.1	寻梦环游记 / Coco
+31	9.2	末代皇帝 / The Last Emperor
+32	9.0	摔跤吧！爸爸 / Dangal
+33	9.2	指环王3：王者无敌 / The Lord of the Rings: The Return of the King
+34	9.1	何以为家 / كفرناحوم
+35	9.1	少年派的奇幻漂流 / Life of Pi
+36	9.0	飞屋环游记 / Up
+37	9.4	十二怒汉 / 12 Angry Men
+38	9.2	鬼子来了
+39	9.1	天空之城 / 天空の城ラピュタ
+40	9.1	哈尔的移动城堡 / ハウルの動く城
+41	9.0	大话西游之月光宝盒 / 西遊記第壹佰零壹回之月光寶盒
+42	9.2	素媛 / 소원
+43	9.2	天堂电影院 / Nuovo Cinema Paradiso
+44	9.0	罗马假日 / Roman Holiday
+45	9.1	闻香识女人 / Scent of a Woman
+46	9.2	辩护人 / 변호인
+47	9.0	哈利·波特与魔法石 / Harry Potter and the Sorcerer's Stone
+48	9.0	搏击俱乐部 / Fight Club
+49	9.0	我不是药神
+50	9.1	死亡诗社 / Dead Poets Society
+51	9.2	教父2 / The Godfather: Part Ⅱ
+52	9.1	指环王2：双塔奇兵 / The Lord of the Rings: The Two Towers
+53	9.0	狮子王 / The Lion King
+54	9.3	大闹天宫
+55	9.1	窃听风暴 / Das Leben der Anderen
+56	9.0	指环王1：魔戒再现 / The Lord of the Rings: The Fellowship of the Ring
+57	9.1	两杆大烟枪 / Lock, Stock and Two Smoking Barrels
+58	9.0	猫鼠游戏 / Catch Me If You Can
+59	9.0	美丽心灵 / A Beautiful Mind
+60	9.1	饮食男女 / 飲食男女
+61	9.2	钢琴家 / The Pianist
+62	9.0	黑客帝国 / The Matrix
+63	9.1	飞越疯人院 / One Flew Over the Cuckoo's Nest
+64	8.9	V字仇杀队 / V for Vendetta
+65	8.9	本杰明·巴顿奇事 / The Curious Case of Benjamin Button
+66	8.8	看不见的客人 / Contratiempo
+67	8.8	让子弹飞
+68	8.9	西西里的美丽传说 / Malèna
+69	9.2	小鞋子 / بچههای آسمان
+70	9.0	拯救大兵瑞恩 / Saving Private Ryan
+71	9.3	海豚湾 / The Cove
+72	8.9	情书 / Love Letter
+73	9.1	穿条纹睡衣的男孩 / The Boy in the Striped Pajamas
+74	8.9	绿皮书 / Green Book
+75	9.0	音乐之声 / The Sound of Music
+76	9.2	美国往事 / Once Upon a Time in America
+77	9.2	海蒂和爷爷 / Heidi
+78	8.9	致命魔术 / The Prestige
+79	8.8	低俗小说 / Pulp Fiction
+80	8.8	七宗罪 / Se7en
+81	8.8	沉默的羔羊 / The Silence of the Lambs
+82	8.8	蝴蝶效应 / The Butterfly Effect
+83	8.8	禁闭岛 / Shutter Island
+84	8.9	春光乍泄 / 春光乍洩
+85	8.9	心灵捕手 / Good Will Hunting
+86	8.9	被嫌弃的松子的一生 / 嫌われ松子の一生
+87	8.8	布达佩斯大饭店 / The Grand Budapest Hotel
+88	8.7	阿凡达 / Avatar
+89	8.7	剪刀手爱德华 / Edward Scissorhands
+90	9.3	摩登时代 / Modern Times
+91	8.9	勇敢的心 / Braveheart
+92	8.7	天使爱美丽 / Le fabuleux destin d'Amélie Poulain
+93	8.7	喜剧之王 / 喜劇之王
+94	8.8	致命ID / Identity
+95	8.7	加勒比海盗 / Pirates of the Caribbean: The Curse of the Black Pearl
+96	8.8	断背山 / Brokeback Mountain
+97	8.8	杀人回忆 / 살인의 추억
+98	8.8	哈利·波特与死亡圣器(下) / Harry Potter and the Deathly Hallows: Part 2
+99	9.1	狩猎 / Jagten
+100	8.9	请以你的名字呼唤我 / Call Me by Your Name
+101	8.9	幽灵公主 / もののけ姫
+102	8.8	阳光灿烂的日子
+103	8.8	入殓师 / おくりびと
+104	9.0	小森林 夏秋篇 / リトル・フォレスト 夏・秋
+105	8.7	重庆森林 / 重慶森林
+106	8.9	第六感 / The Sixth Sense
+107	8.9	7号房的礼物 / 7번방의 선물
+108	8.7	消失的爱人 / Gone Girl
+109	9.0	红辣椒 / パプリカ
+110	9.0	小森林 冬春篇 / リトル・フォレスト 冬・春
+111	8.8	爱在黎明破晓前 / Before Sunrise
+112	9.0	一一
+113	8.9	侧耳倾听 / 耳をすませば
+114	8.6	唐伯虎点秋香 / 唐伯虎點秋香
+115	8.9	玛丽和马克思 / Mary and Max
+116	8.9	超脱 / Detachment
+117	8.7	倩女幽魂
+118	8.7	告白
+119	8.8	蝙蝠侠：黑暗骑士崛起 / The Dark Knight Rises
+120	8.8	大鱼 / Big Fish
+121	8.8	阳光姐妹淘 / 써니
+122	8.8	甜蜜蜜
+123	8.7	射雕英雄传之东成西就 / 射鵰英雄傳之東成西就
+124	8.9	萤火之森 / 蛍火の杜へ
+125	8.7	驯龙高手 / How to Train Your Dragon
+126	9.1	无人知晓 / 誰も知らない
+127	8.7	超能陆战队 / Big Hero 6
+128	8.8	幸福终点站 / The Terminal
+129	8.8	借东西的小人阿莉埃蒂 / 借りぐらしのアリエッティ
+130	8.8	菊次郎的夏天 / 菊次郎の夏
+131	8.8	爱在日落黄昏时 / Before Sunset
+132	8.8	恐怖直播 / 더 테러 라이브
+133	9.1	完美的世界 / A Perfect World
+134	8.6	神偷奶爸 / Despicable Me
+135	8.7	怪兽电力公司 / Monsters, Inc.
+136	8.8	玩具总动员3 / Toy Story 3
+137	8.6	功夫
+138	8.7	血战钢锯岭 / Hacksaw Ridge
+139	8.9	风之谷 / 風の谷のナウシカ
+140	8.6	傲慢与偏见 / Pride & Prejudice
+141	9.5	人生果实 / 人生フルーツ
+142	8.7	时空恋旅人 / About Time
+143	8.9	上帝之城 / Cidade de Deus
+144	8.9	教父3 / The Godfather: Part III
+145	9.2	天书奇谭
+146	8.7	电锯惊魂 / Saw
+147	8.9	喜宴 / 囍宴
+148	8.7	英雄本色
+149	8.7	被解救的姜戈 / Django Unchained
+150	8.8	谍影重重3 / The Bourne Ultimatum
+151	8.7	岁月神偷 / 歲月神偷
+152	9.2	七武士 / 七人の侍
+153	9.1	哪吒闹海
+154	8.9	我是山姆 / I Am Sam
+155	8.7	头号玩家 / Ready Player One
+156	8.7	疯狂原始人 / The Croods
+157	8.8	纵横四海 / 緃横四海
+158	8.5	釜山行 / 부산행
+159	8.7	三块广告牌 / Three Billboards Outside Ebbing, Missouri
+160	8.7	心迷宫
+161	8.8	达拉斯买家俱乐部 / Dallas Buyers Club
+162	8.7	萤火虫之墓 / 火垂るの墓
+163	8.6	真爱至上 / Love Actually
+164	8.8	荒蛮故事 / Relatos salvajes
+165	8.6	贫民窟的百万富翁 / Slumdog Millionaire
+166	8.6	东邪西毒 / 東邪西毒
+167	8.7	哈利·波特与阿兹卡班的囚徒 / Harry Potter and the Prisoner of Azkaban
+168	8.6	记忆碎片 / Memento
+169	8.4	你的名字。 / 君の名は。
+170	8.7	爆裂鼓手 / Whiplash
+171	8.9	卢旺达饭店 / Hotel Rwanda
+172	8.6	花样年华 / 花樣年華
+173	8.6	黑天鹅 / Black Swan
+174	9.2	忠犬八公物语 / ハチ公物語
+175	8.7	黑客帝国3：矩阵革命 / The Matrix Revolutions
+176	8.7	模仿游戏 / The Imitation Game
+177	8.8	一个叫欧维的男人决定去死 / En man som heter Ove
+178	8.7	头脑特工队 / Inside Out
+179	8.6	哈利·波特与密室 / Harry Potter and the Chamber of Secrets
+180	8.7	雨人 / Rain Man
+181	8.9	你看起来好像很好吃 / おまえうまそうだな
+182	8.9	未麻的部屋 / Perfect Blue
+183	8.7	无敌破坏王 / Wreck-It Ralph
+184	8.8	新世界 / 신세계
+185	8.5	恋恋笔记本 / The Notebook
+186	8.6	冰川时代 / Ice Age
+187	8.8	海街日记 / 海街diary
+188	8.7	二十二
+189	8.6	海边的曼彻斯特 / Manchester by the Sea
+190	8.8	房间 / Room
+191	9.0	惊魂记 / Psycho
+192	8.9	虎口脱险 / La grande vadrouille
+193	8.5	恐怖游轮 / Triangle
+194	8.6	奇迹男孩 / Wonder
+195	8.6	魔女宅急便 / 魔女の宅急便
+196	8.6	人工智能 / Artificial Intelligence: AI
+197	9.0	雨中曲 / Singin' in the Rain
+198	8.5	疯狂的石头
+199	8.7	小偷家族 / 万引き家族
+200	8.8	爱在午夜降临前 / Before Midnight
+201	8.8	罗生门 / 羅生門
+202	8.7	终结者2：审判日 / Terminator 2: Judgment Day
+203	9.1	海洋 / Océans
+204	8.4	初恋这件小事 / สิ่งเล็กเล็กที่เรียกว่า...รัก
+205	8.8	魂断蓝桥 / Waterloo Bridge
+206	8.8	燃情岁月 / Legends of the Fall
+207	8.8	绿里奇迹 / The Green Mile
+208	8.8	可可西里
+209	8.6	穿越时空的少女 / 時をかける少女
+210	8.8	2001太空漫游 / 2001: A Space Odyssey
+211	8.8	牯岭街少年杀人事件 / 牯嶺街少年殺人事件
+212	9.3	城市之光 / City Lights
+213	8.5	完美陌生人 / Perfetti sconosciuti
+214	8.6	无耻混蛋 / Inglourious Basterds
+215	8.6	新龙门客栈 / 新龍門客棧
+216	8.5	阿飞正传 / 阿飛正傳
+217	8.4	源代码 / Source Code
+218	8.5	青蛇
+219	8.5	香水 / Perfume: The Story of a Murderer
+220	8.7	谍影重重2 / The Bourne Supremacy
+221	8.5	色，戒
+222	8.9	地球上的星星 / Taare Zameen Par
+223	8.6	遗愿清单 / The Bucket List
+224	8.6	谍影重重 / The Bourne Identity
+225	8.7	血钻 / Blood Diamond
+226	8.6	战争之王 / Lord of War
+227	8.7	大佛普拉斯
+228	8.5	猜火车 / Trainspotting
+229	8.6	疯狂的麦克斯4：狂暴之路 / Mad Max: Fury Road
+230	8.5	彗星来的那一夜 / Coherence
+231	8.8	步履不停 / 歩いても 歩いても
+232	8.6	朗读者 / The Reader
+233	8.7	浪潮 / Die Welle
+234	8.4	小萝莉的猴神大叔 / Bajrangi Bhaijaan
+235	8.5	再次出发之纽约遇见你 / Begin Again
+236	8.3	驴得水
+237	8.8	聚焦 / Spotlight
+238	9.2	东京物语 / 東京物語
+239	8.5	九品芝麻官
+240	8.9	追随 / Following
+241	8.5	哈利·波特与火焰杯 / Harry Potter and the Goblet of Fire
+242	8.7	一次别离 / جدایی نادر از سیمین
+243	8.8	千钧一发 / Gattaca
+244	9.0	我爱你 / 그대를 사랑합니다
+245	8.7	黑鹰坠落 / Black Hawk Down
+246	8.9	四个春天
+247	8.6	网络谜踪 / Searching
+248	8.5	发条橙 / A Clockwork Orange
+249	8.7	波西米亚狂想曲 / Bohemian Rhapsody
+250	8.6	E.T. 外星人 / E.T.: The Extra-Terrestrial
